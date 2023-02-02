@@ -15,11 +15,17 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=asheroh&theme=react-dark&bg_color=20232a&hide_border=true&line=108bde&color=108bde" width=98%/>
 </a>
 
+<table>
+<tr>
+<td align="center", width=490px>
+
 ### Studying
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</td>
+<td align="center", width=490px>
 
 ### For more information
 
@@ -33,6 +39,9 @@
         src="http://img.shields.io/badge/-Blog-2DB400?style=flat&logo=Blog&link=https://www.blog.naver.com/wnstj701/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</td>
+</tr>
+</table>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=108bde&height=200&section=footer)
 
