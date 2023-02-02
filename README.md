@@ -43,6 +43,6 @@
 </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=108bde&height=200&section=footer)
+<!--   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=108bde&height=200&section=footer) -->
 
 </div>
