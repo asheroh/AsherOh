@@ -34,7 +34,7 @@
         src="http://img.shields.io/badge/-Instagram-108bde?style=flat&logo=Instagram&link=https://www.instagram.com/way_to_focus/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.blog.naver.com/wnstj701/">
+<a href="https://blog.naver.com/wnstj701/">
     <img 
         src="http://img.shields.io/badge/-Blog-2DB400?style=flat&logo=Blog&link=https://www.blog.naver.com/wnstj701/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
