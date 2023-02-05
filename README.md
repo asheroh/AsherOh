@@ -19,7 +19,7 @@
 <tr>
 <td align="center", width=490px>
 
-### Studying for now
+### ▶Studying for now
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
@@ -27,7 +27,7 @@
 </td>
 <td align="center", width=490px>
 
-### For more information
+### ▶For more information
 
 <a href="https://www.instagram.com/way_to_focus/">
     <img 
