@@ -19,15 +19,16 @@
 <tr>
 <td align="center", width=490px>
 
-### ▶Studying currently
+### ▶Area of concern
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </td>
 <td align="center", width=490px>
 
-### ▶For more information
+### ▶More about
 
 <a href="https://www.instagram.com/way_to_focus/">
     <img 
