@@ -32,12 +32,17 @@
 
 <a href="https://www.instagram.com/way_to_focus/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-108bde?style=flat&logo=Instagram&link=https://www.instagram.com/way_to_focus/"
+        src="http://img.shields.io/badge/-Instagram-108bde?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/way_to_focus/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://blog.naver.com/wnstj701/">
     <img 
-        src="http://img.shields.io/badge/-Blog-2DB400?style=flat&logo=Blog&link=https://www.blog.naver.com/wnstj701/"
+        src="http://img.shields.io/badge/-Blog-ffffff?style=for-the-badge&logo=Naver&link=https://www.blog.naver.com/wnstj701/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://velog.io/@asheroh">
+    <img 
+        src="http://img.shields.io/badge/-Velog-ffffff?style=for-the-badge&logo=Velog&link=https://www.blog.naver.com/wnstj701/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </td>
