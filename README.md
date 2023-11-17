@@ -14,8 +14,7 @@
 
 <div align="left">
   
-### Tech Stack ⚙
-<br/>
+#### Tech Stack
 
 <img src="https://img.shields.io/badge/Visual Studio Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
@@ -24,8 +23,7 @@
 <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-### Info
-<br/>
+#### Info
 
 <a href="https://www.instagram.com/way_to_focus/">
     <img 
