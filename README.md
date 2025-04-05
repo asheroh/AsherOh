@@ -1,7 +1,7 @@
 <div align="center">
 
 ![CRUMBLE](https://user-images.githubusercontent.com/102159721/215468189-696f1ecb-4b89-4cb3-9860-d2d5a53cef28.jpg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=BE%20DIFFERENT%20&fontSize=42&animation=fadeIn&fontAlignY=32&desc=Unbiased%20Journey%20to%20the%20Wider%20World&descAlignY=51&descAlign=70.5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Be%20Different%20&fontSize=42&animation=fadeIn&fontAlignY=32&desc=Unbiased%20Journey%20to%20the%20Wider%20World&descAlignY=51&descAlign=70.5)
 
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheroh&show_icons=true&theme=tokyonight) -->
   
