@@ -2,11 +2,15 @@
 <div style="color:#6B7280">
   <p><strong>ABOUT ME</strong></p>
   <ul>
-    <li>I automated repetitive team workflows and reduced work time by <strong>90%</strong>.</li>
-    <li>For <strong>2 years</strong>, I led multiple team projects as the head of a university IT union LIKELION.</li>
-    <li>Strong 0→1 experience: <em>ideation → development → launch → marketing → iteration</em>, all solo-built and operated.</li>
-    <li>I actively leverage AI productivity tools such as <strong>Cursor</strong>, <strong>Claude</strong>, and <strong>Codex</strong>.</li>
-  </ul>
+    <li>I’m someone with a strong drive to take action and a deep sense of responsibility.     </li>
+    <li>While I enjoy the freedom of working independently, I truly shine when I’m committed to a team.
+    </li>
+  <li>I’m not easily shaken by uncertainty, and I’m always eager to step beyond boundaries and explore new frontiers.
+  </li>
+  <li>At my core, there’s a spark that fuels my passion and pushes me forward.</li>
+  <li>Whatever I’m doing, I love and embrace those moments when that spark catches fire.</li>
+</ul>
+
 </div>
 
 <!-- Tech Stack (monotone shields, slightly larger) -->
