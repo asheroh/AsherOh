@@ -1,52 +1,55 @@
-<div align="center">
-
-![CRUMBLE](https://user-images.githubusercontent.com/102159721/215468189-696f1ecb-4b89-4cb3-9860-d2d5a53cef28.jpg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Be%20different%20&fontSize=42&animation=fadeIn&fontAlignY=32&desc=Unbiased%20Journey%20to%20the%20Wider%20World&descAlignY=51&descAlign=70.5)
-
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheroh&show_icons=true&theme=tokyonight) -->
-  
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asheroh&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=108bde" width=49.2%"
-</a> -->
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=asheroh&theme=react-dark&bg_color=20232a&hide_border=true&line=108bde&color=108bde" width=98%/>
-</a> -->
-
-<div align="left">
-  
-#### Tech Stack
-
-<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/React Native-613e9e?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-#### Info
-
-<a href="https://www.instagram.com/way_to_focus/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-108bde?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/way_to_focus/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://blog.naver.com/wnstj701/">
-    <img 
-        src="http://img.shields.io/badge/-Blog-ffffff?style=for-the-badge&logo=Naver&link=https://www.blog.naver.com/wnstj701/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://velog.io/@asheroh">
-    <img 
-        src="http://img.shields.io/badge/-Velog-ffffff?style=for-the-badge&logo=Velog&link=https://www.blog.naver.com/wnstj701/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<br/><br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasheroh&count_bg=%233D9FC8&title_bg=%23555555&icon=apacheairflow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!-- ABOUT ME (lighter tone) -->
+<div style="color:#6B7280">
+  <p><strong>ABOUT ME</strong></p>
+  <ul>
+    <li>I automated repetitive team workflows and reduced work time by <strong>90%</strong>.</li>
+    <li>For <strong>2 years</strong>, I led multiple team projects as the head of a university IT union.</li>
+    <li>Strong 0→1 experience: <em>ideation → development → launch → marketing → iteration</em>, all solo-built and operated.</li>
+    <li>I actively leverage AI productivity tools such as <strong>Cursor</strong>, <strong>Claude</strong>, and <strong>Codex</strong>.</li>
+  </ul>
 </div>
 
-<!--   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=108bde&height=200&section=footer) -->
+<!-- Tech Stack (monotone shields, slightly larger) -->
+<p>
+  <img height="32" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+  <img height="32" src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=FFFFFF" />
+  <img height="32" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img height="32" src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" />
+  <img height="32" src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+  <img height="32" src="https://img.shields.io/badge/styled--components-111827?style=for-the-badge&logo=styledcomponents&logoColor=FFFFFF" />
+</p>
 
-</div>
+<!-- Activity Graph (monotone) -->
+<p>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=asheroh&bg_color=FFFFFF&color=6B7280&line=6B7280&point=6B7280&area=false&hide_border=true&custom_title=Contribution%20Graph"
+      alt="Contribution graph (monotone)"
+    />
+  </a>
+</p>
+
+<!-- Baekjoon / Solved.ac (forced grayscale via CSS filter) -->
+<p>
+  <a href="https://solved.ac/profile/wnstj701">
+    <img style="filter: grayscale(100%);" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj701" alt="Solved.ac Profile (monotone)" />
+  </a>
+</p>
+
+<!-- Visitors counter (monotone) -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=asheroh&style=flat-square&label=visitors&color=6B7280" alt="visitors" />
+</p>
+
+<!-- Quick links (colored, unified badges with icons) -->
+<p>
+  <a href="https://www.linkedin.com/in/asheroh">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+  </a>
+  <a href="https://blog.naver.com/wnstj701">
+    <img src="https://img.shields.io/badge/NAVER%20BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFFF" />
+  </a>
+  <a href="mailto:wnstj701@naver.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+  </a>
+</p>
