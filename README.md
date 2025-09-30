@@ -3,7 +3,7 @@
   <p><strong>ABOUT ME</strong></p>
   <ul>
     <li>I automated repetitive team workflows and reduced work time by <strong>90%</strong>.</li>
-    <li>For <strong>2 years</strong>, I led multiple team projects as the head of a university IT union.</li>
+    <li>For <strong>2 years</strong>, I led multiple team projects as the head of a university IT union LIKELION.</li>
     <li>Strong 0→1 experience: <em>ideation → development → launch → marketing → iteration</em>, all solo-built and operated.</li>
     <li>I actively leverage AI productivity tools such as <strong>Cursor</strong>, <strong>Claude</strong>, and <strong>Codex</strong>.</li>
   </ul>
